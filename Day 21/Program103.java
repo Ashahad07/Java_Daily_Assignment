@@ -7,8 +7,7 @@ public class Program103 {
         int num = sc.nextInt();
         if (isPrime(num)) {
             System.out.println(num + " is Prime Number");
-        }
-        else{
+        }else{
             System.out.println(num + " is not prime number");
         }
         sc.close();
